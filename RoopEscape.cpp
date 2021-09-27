@@ -1,3 +1,8 @@
+/*
+개발자 : 최지은, 한세희, 신가희
+개발일 : 2021.09.27.
+문의 : carolyn0512@gmail.com 
+*/
 
 #include<stdio.h>
 #include<stdlib.h>
